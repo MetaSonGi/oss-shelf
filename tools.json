@@ -1,0 +1,102 @@
+[
+  {
+    "name": "puck",
+    "repo": "puckeditor/puck",
+    "url": "https://github.com/puckeditor/puck",
+    "category": "웹",
+    "description": "React 드래그앤드롭 페이지 에디터",
+    "idea": "사진전시관 소개 페이지를 편집하는 빌더",
+    "stars": 13606,
+    "license": "MIT"
+  },
+  {
+    "name": "morphic",
+    "repo": "miurla/morphic",
+    "url": "https://github.com/miurla/morphic",
+    "category": "AI",
+    "description": "생성형 UI를 제공하는 AI 검색엔진",
+    "idea": "미디어아트 자료를 찾아 답변하는 검색 서비스",
+    "stars": 9257,
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "moonshine",
+    "repo": "moonshine-ai/moonshine",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "category": "음성",
+    "description": "음성 에이전트·인터페이스용 음성 처리",
+    "idea": "로봇랩 음성 명령 인터페이스",
+    "stars": 11387,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "unstract",
+    "repo": "Zipstack/unstract",
+    "url": "https://github.com/Zipstack/unstract",
+    "category": "문서",
+    "description": "비정형 문서를 구조화 데이터로 추출",
+    "idea": "신청서·작품 설명서를 표준 데이터로 정리",
+    "stars": 7405,
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "pdfme",
+    "repo": "pdfme/pdfme",
+    "url": "https://github.com/pdfme/pdfme",
+    "category": "문서",
+    "description": "템플릿 디자이너가 있는 PDF 생성 라이브러리",
+    "idea": "전시 도록·작품 캡션·수료증 생성기",
+    "stars": 4983,
+    "license": "MIT"
+  },
+  {
+    "name": "docetl",
+    "repo": "ucbepic/docetl",
+    "url": "https://github.com/ucbepic/docetl",
+    "category": "문서",
+    "description": "LLM 기반 대량 문서 처리 파이프라인",
+    "idea": "여러 연구 문서의 주제·인사이트 추출",
+    "stars": 4190,
+    "license": "MIT"
+  },
+  {
+    "name": "assistant-ui",
+    "repo": "assistant-ui/assistant-ui",
+    "url": "https://github.com/assistant-ui/assistant-ui",
+    "category": "AI",
+    "description": "React·TypeScript AI 채팅 UI 컴포넌트",
+    "idea": "전시 도슨트·프로젝트 도움말 채팅창",
+    "stars": 12919,
+    "license": "MIT"
+  },
+  {
+    "name": "OpnForm",
+    "repo": "OpnForm/OpnForm",
+    "url": "https://github.com/OpnForm/OpnForm",
+    "category": "웹",
+    "description": "오픈소스 폼 빌더",
+    "idea": "전시 참가 신청·관람객 피드백 폼",
+    "stars": 3972,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "LitServe",
+    "repo": "Lightning-AI/LitServe",
+    "url": "https://github.com/Lightning-AI/LitServe",
+    "category": "AI",
+    "description": "Python AI 추론 API 서버 프레임워크",
+    "idea": "로컬 이미지·음성 모델의 API 서비스",
+    "stars": 3980,
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "next-forge",
+    "repo": "vercel/next-forge",
+    "url": "https://github.com/vercel/next-forge",
+    "category": "웹",
+    "description": "Turborepo 기반 Next.js 앱 템플릿",
+    "idea": "작은 구독형 콘텐츠 제작 서비스",
+    "stars": 7726,
+    "license": "MIT"
+  }
+]
